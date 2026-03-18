@@ -5,14 +5,9 @@ class MyStack {
     }
     
     public void push(int x) {
-        if(q.isEmpty()) q.offer(x);
-        else{
-            int n=q.size();
-            q.offer(x);
-            while(n>0){
-                q.offer(q.poll());
-                n--;
-            }
+        q.offer(x);
+        for(int i=0;i<q.size()-1;i++){
+            q.offer(q.poll());
         }
     }
     
