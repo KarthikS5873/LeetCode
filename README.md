@@ -38,6 +38,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/KarthikS5873/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/KarthikS5873/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KarthikS5873/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/KarthikS5873/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -71,4 +72,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/KarthikS5873/LeetCode/tree/main/1472-design-browser-history/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/KarthikS5873/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/KarthikS5873/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/KarthikS5873/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
