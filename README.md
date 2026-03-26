@@ -113,5 +113,14 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/KarthikS5873/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/KarthikS5873/LeetCode/tree/main/0051-n-queens/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/KarthikS5873/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/KarthikS5873/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
