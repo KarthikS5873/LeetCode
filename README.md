@@ -65,6 +65,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/KarthikS5873/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0075-sort-colors](https://github.com/KarthikS5873/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/KarthikS5873/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/KarthikS5873/LeetCode/tree/main/0682-baseball-game/) | Easy |
@@ -109,4 +110,8 @@
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/KarthikS5873/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KarthikS5873/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/KarthikS5873/LeetCode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
