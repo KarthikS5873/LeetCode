@@ -62,6 +62,7 @@
 | [0141-linked-list-cycle](https://github.com/KarthikS5873/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/KarthikS5873/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/KarthikS5873/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/KarthikS5873/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/KarthikS5873/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/KarthikS5873/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/KarthikS5873/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/KarthikS5873/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1472-design-browser-history](https://github.com/KarthikS5873/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KarthikS5873/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Sorting
@@ -79,6 +81,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/KarthikS5873/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/KarthikS5873/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/KarthikS5873/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
