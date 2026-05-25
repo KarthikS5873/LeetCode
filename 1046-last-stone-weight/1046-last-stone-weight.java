@@ -4,7 +4,7 @@ class Solution {
         for(int num:stones){
             q.offer(num);
         }
-        while(!q.isEmpty() && q.size()>1){
+        while(q.size()>1){
             int y=q.poll();
             int x=q.poll();
             if(x!=y){
