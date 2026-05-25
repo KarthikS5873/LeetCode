@@ -80,6 +80,7 @@
 | [0724-find-pivot-index](https://github.com/KarthikS5873/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KarthikS5873/LeetCode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/KarthikS5873/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1046-last-stone-weight](https://github.com/KarthikS5873/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1472-design-browser-history](https://github.com/KarthikS5873/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KarthikS5873/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/KarthikS5873/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -112,6 +113,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KarthikS5873/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/KarthikS5873/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1046-last-stone-weight](https://github.com/KarthikS5873/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
