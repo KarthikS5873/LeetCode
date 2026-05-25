@@ -35,6 +35,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KarthikS5873/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/KarthikS5873/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0649-dota2-senate](https://github.com/KarthikS5873/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/KarthikS5873/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KarthikS5873/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Hash Table
@@ -128,6 +129,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/KarthikS5873/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0649-dota2-senate](https://github.com/KarthikS5873/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,4 +140,8 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/KarthikS5873/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/KarthikS5873/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0649-dota2-senate](https://github.com/KarthikS5873/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 <!---LeetCode Topics End-->
