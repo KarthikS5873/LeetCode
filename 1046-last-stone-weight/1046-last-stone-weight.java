@@ -2,8 +2,8 @@ class Solution {
     public int lastStoneWeight(int[] stones) {
         Arrays.sort(stones);
         PriorityQueue<Integer> q=new PriorityQueue<>(Collections.reverseOrder());
-        for(int num:stones){
-            q.offer(num);
+        for(int i=stones.length-1;i>=0;i--){
+            q.offer(stones[i]);
         }
         while(q.size()>1){
             int y=q.poll();
