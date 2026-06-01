@@ -76,6 +76,7 @@
 | [0200-number-of-islands](https://github.com/KarthikS5873/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/KarthikS5873/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/KarthikS5873/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/KarthikS5873/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/KarthikS5873/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0414-third-maximum-number](https://github.com/KarthikS5873/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/KarthikS5873/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -160,6 +161,7 @@
 | [0062-unique-paths](https://github.com/KarthikS5873/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/KarthikS5873/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/KarthikS5873/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/KarthikS5873/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/KarthikS5873/LeetCode/tree/main/0322-coin-change/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -218,4 +220,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/KarthikS5873/LeetCode/tree/main/0062-unique-paths/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/KarthikS5873/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
