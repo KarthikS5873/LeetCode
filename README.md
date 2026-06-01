@@ -130,6 +130,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/KarthikS5873/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/KarthikS5873/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -153,6 +154,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/KarthikS5873/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/KarthikS5873/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/KarthikS5873/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,4 +203,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/KarthikS5873/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/KarthikS5873/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
