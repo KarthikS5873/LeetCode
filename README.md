@@ -88,6 +88,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/KarthikS5873/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/KarthikS5873/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1472-design-browser-history](https://github.com/KarthikS5873/LeetCode/tree/main/1472-design-browser-history/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KarthikS5873/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KarthikS5873/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/KarthikS5873/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Sorting
@@ -169,6 +170,7 @@
 | [0322-coin-change](https://github.com/KarthikS5873/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/KarthikS5873/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KarthikS5873/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,4 +233,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KarthikS5873/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KarthikS5873/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 <!---LeetCode Topics End-->
