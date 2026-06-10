@@ -241,4 +241,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KarthikS5873/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/KarthikS5873/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
