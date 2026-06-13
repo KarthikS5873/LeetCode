@@ -246,6 +246,7 @@
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/KarthikS5873/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
 | [0626-exchange-seats](https://github.com/KarthikS5873/LeetCode/tree/main/0626-exchange-seats/) | Medium |
+| [1148-article-views-i](https://github.com/KarthikS5873/LeetCode/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/KarthikS5873/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/KarthikS5873/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
