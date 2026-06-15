@@ -269,6 +269,7 @@
 | [1075-project-employees-i](https://github.com/KarthikS5873/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/KarthikS5873/LeetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/KarthikS5873/LeetCode/tree/main/1148-article-views-i/) | Easy |
+| [1251-average-selling-price](https://github.com/KarthikS5873/LeetCode/tree/main/1251-average-selling-price/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/KarthikS5873/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/KarthikS5873/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/KarthikS5873/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
