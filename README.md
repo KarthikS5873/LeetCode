@@ -77,6 +77,7 @@
 | [0064-minimum-path-sum](https://github.com/KarthikS5873/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/KarthikS5873/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0162-find-peak-element](https://github.com/KarthikS5873/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/KarthikS5873/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/KarthikS5873/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/KarthikS5873/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -242,6 +243,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0162-find-peak-element](https://github.com/KarthikS5873/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KarthikS5873/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
