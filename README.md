@@ -152,6 +152,7 @@
 | [0070-climbing-stairs](https://github.com/KarthikS5873/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/KarthikS5873/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/KarthikS5873/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/KarthikS5873/LeetCode/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,4 +313,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KarthikS5873/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/KarthikS5873/LeetCode/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 <!---LeetCode Topics End-->
