@@ -12,6 +12,7 @@
 | [0901-online-stock-span](https://github.com/KarthikS5873/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [1472-design-browser-history](https://github.com/KarthikS5873/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KarthikS5873/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/KarthikS5873/LeetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +161,7 @@
 | [0682-baseball-game](https://github.com/KarthikS5873/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KarthikS5873/LeetCode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KarthikS5873/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/KarthikS5873/LeetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/KarthikS5873/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -174,6 +176,7 @@
 | [0649-dota2-senate](https://github.com/KarthikS5873/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/KarthikS5873/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/KarthikS5873/LeetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
