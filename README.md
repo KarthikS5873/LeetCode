@@ -179,6 +179,7 @@
 | [0022-generate-parentheses](https://github.com/KarthikS5873/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0087-scramble-string](https://github.com/KarthikS5873/LeetCode/tree/main/0087-scramble-string/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/KarthikS5873/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0482-license-key-formatting](https://github.com/KarthikS5873/LeetCode/tree/main/0482-license-key-formatting/) | Easy |
 | [0649-dota2-senate](https://github.com/KarthikS5873/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/KarthikS5873/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
