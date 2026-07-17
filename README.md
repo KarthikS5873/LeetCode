@@ -82,6 +82,7 @@
 | [0011-container-with-most-water](https://github.com/KarthikS5873/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0051-n-queens](https://github.com/KarthikS5873/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/KarthikS5873/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/KarthikS5873/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/KarthikS5873/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/KarthikS5873/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -163,6 +164,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/KarthikS5873/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0682-baseball-game](https://github.com/KarthikS5873/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KarthikS5873/LeetCode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KarthikS5873/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -251,6 +253,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/KarthikS5873/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/KarthikS5873/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/KarthikS5873/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 ## Memoization
