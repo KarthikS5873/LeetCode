@@ -96,6 +96,7 @@
 | [0322-coin-change](https://github.com/KarthikS5873/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/KarthikS5873/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/KarthikS5873/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [0517-super-washing-machines](https://github.com/KarthikS5873/LeetCode/tree/main/0517-super-washing-machines/) | Hard |
 | [0518-coin-change-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/KarthikS5873/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/KarthikS5873/LeetCode/tree/main/0682-baseball-game/) | Easy |
@@ -213,6 +214,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/KarthikS5873/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0517-super-washing-machines](https://github.com/KarthikS5873/LeetCode/tree/main/0517-super-washing-machines/) | Hard |
 | [0649-dota2-senate](https://github.com/KarthikS5873/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Quickselect
