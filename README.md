@@ -111,6 +111,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KarthikS5873/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KarthikS5873/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/KarthikS5873/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2057-smallest-index-with-equal-value](https://github.com/KarthikS5873/LeetCode/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/KarthikS5873/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
