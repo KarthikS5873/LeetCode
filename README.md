@@ -48,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KarthikS5873/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0076-minimum-window-substring](https://github.com/KarthikS5873/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/KarthikS5873/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KarthikS5873/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/KarthikS5873/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -193,6 +194,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/KarthikS5873/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0076-minimum-window-substring](https://github.com/KarthikS5873/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0087-scramble-string](https://github.com/KarthikS5873/LeetCode/tree/main/0087-scramble-string/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/KarthikS5873/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0482-license-key-formatting](https://github.com/KarthikS5873/LeetCode/tree/main/0482-license-key-formatting/) | Easy |
@@ -292,6 +294,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/KarthikS5873/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KarthikS5873/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Database
 | Problem Name | Difficulty |
