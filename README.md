@@ -121,6 +121,7 @@
 | [1046-last-stone-weight](https://github.com/KarthikS5873/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1472-design-browser-history](https://github.com/KarthikS5873/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KarthikS5873/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/KarthikS5873/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KarthikS5873/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/KarthikS5873/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/KarthikS5873/LeetCode/tree/main/2057-smallest-index-with-equal-value/) | Easy |
@@ -287,6 +288,7 @@
 | [0064-minimum-path-sum](https://github.com/KarthikS5873/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/KarthikS5873/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/KarthikS5873/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/KarthikS5873/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
