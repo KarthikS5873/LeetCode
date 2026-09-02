@@ -201,6 +201,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/KarthikS5873/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/KarthikS5873/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [0067-add-binary](https://github.com/KarthikS5873/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/KarthikS5873/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/KarthikS5873/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/KarthikS5873/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -212,6 +213,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/KarthikS5873/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0067-add-binary](https://github.com/KarthikS5873/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0682-baseball-game](https://github.com/KarthikS5873/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KarthikS5873/LeetCode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KarthikS5873/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -227,6 +229,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/KarthikS5873/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0067-add-binary](https://github.com/KarthikS5873/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/KarthikS5873/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0087-scramble-string](https://github.com/KarthikS5873/LeetCode/tree/main/0087-scramble-string/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/KarthikS5873/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -414,6 +417,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/KarthikS5873/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/KarthikS5873/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
