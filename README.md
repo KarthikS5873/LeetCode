@@ -89,6 +89,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/KarthikS5873/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/KarthikS5873/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/KarthikS5873/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0443-string-compression](https://github.com/KarthikS5873/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/KarthikS5873/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/KarthikS5873/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -226,6 +227,7 @@
 | [0087-scramble-string](https://github.com/KarthikS5873/LeetCode/tree/main/0087-scramble-string/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/KarthikS5873/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/KarthikS5873/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0443-string-compression](https://github.com/KarthikS5873/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0482-license-key-formatting](https://github.com/KarthikS5873/LeetCode/tree/main/0482-license-key-formatting/) | Easy |
 | [0649-dota2-senate](https://github.com/KarthikS5873/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
