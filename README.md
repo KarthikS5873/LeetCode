@@ -58,6 +58,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/KarthikS5873/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KarthikS5873/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/KarthikS5873/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/KarthikS5873/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/KarthikS5873/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@
 | [0234-palindrome-linked-list](https://github.com/KarthikS5873/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/KarthikS5873/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0443-string-compression](https://github.com/KarthikS5873/LeetCode/tree/main/0443-string-compression/) | Medium |
+| [0567-permutation-in-string](https://github.com/KarthikS5873/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/KarthikS5873/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/KarthikS5873/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -229,6 +231,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/KarthikS5873/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/KarthikS5873/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0482-license-key-formatting](https://github.com/KarthikS5873/LeetCode/tree/main/0482-license-key-formatting/) | Easy |
+| [0567-permutation-in-string](https://github.com/KarthikS5873/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0649-dota2-senate](https://github.com/KarthikS5873/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/KarthikS5873/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -338,6 +341,7 @@
 | [0076-minimum-window-substring](https://github.com/KarthikS5873/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/KarthikS5873/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/KarthikS5873/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KarthikS5873/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Database
 | Problem Name | Difficulty |
