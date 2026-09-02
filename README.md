@@ -189,6 +189,7 @@
 | [0070-climbing-stairs](https://github.com/KarthikS5873/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/KarthikS5873/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/KarthikS5873/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KarthikS5873/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/KarthikS5873/LeetCode/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -219,6 +220,7 @@
 | [1143-longest-common-subsequence](https://github.com/KarthikS5873/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KarthikS5873/LeetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/KarthikS5873/LeetCode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KarthikS5873/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +251,7 @@
 | [0517-super-washing-machines](https://github.com/KarthikS5873/LeetCode/tree/main/0517-super-washing-machines/) | Hard |
 | [0649-dota2-senate](https://github.com/KarthikS5873/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KarthikS5873/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
