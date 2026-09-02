@@ -62,6 +62,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/KarthikS5873/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/KarthikS5873/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/KarthikS5873/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/KarthikS5873/LeetCode/tree/main/0061-rotate-list/) | Medium |
@@ -149,6 +150,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/KarthikS5873/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/KarthikS5873/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0143-reorder-list](https://github.com/KarthikS5873/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/KarthikS5873/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -188,6 +190,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/KarthikS5873/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/KarthikS5873/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/KarthikS5873/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/KarthikS5873/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
