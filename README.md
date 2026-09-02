@@ -48,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KarthikS5873/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/KarthikS5873/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/KarthikS5873/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/KarthikS5873/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KarthikS5873/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -93,6 +94,7 @@
 | [0054-spiral-matrix](https://github.com/KarthikS5873/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/KarthikS5873/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/KarthikS5873/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/KarthikS5873/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/KarthikS5873/LeetCode/tree/main/0162-find-peak-element/) | Medium |
@@ -274,6 +276,7 @@
 | [0054-spiral-matrix](https://github.com/KarthikS5873/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/KarthikS5873/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/KarthikS5873/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/KarthikS5873/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
