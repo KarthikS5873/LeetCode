@@ -84,6 +84,7 @@
 | [0680-valid-palindrome-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/KarthikS5873/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/KarthikS5873/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2109-adding-spaces-to-a-string](https://github.com/KarthikS5873/LeetCode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@
 | [1748-sum-of-unique-elements](https://github.com/KarthikS5873/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/KarthikS5873/LeetCode/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/KarthikS5873/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2109-adding-spaces-to-a-string](https://github.com/KarthikS5873/LeetCode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +194,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KarthikS5873/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KarthikS5873/LeetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/KarthikS5873/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2109-adding-spaces-to-a-string](https://github.com/KarthikS5873/LeetCode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +212,7 @@
 | [0680-valid-palindrome-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/KarthikS5873/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KarthikS5873/LeetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2109-adding-spaces-to-a-string](https://github.com/KarthikS5873/LeetCode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
