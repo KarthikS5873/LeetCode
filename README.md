@@ -144,6 +144,7 @@
 | [2057-smallest-index-with-equal-value](https://github.com/KarthikS5873/LeetCode/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/KarthikS5873/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/KarthikS5873/LeetCode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/KarthikS5873/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +205,7 @@
 | [0509-fibonacci-number](https://github.com/KarthikS5873/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/KarthikS5873/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KarthikS5873/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/KarthikS5873/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/KarthikS5873/LeetCode/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
