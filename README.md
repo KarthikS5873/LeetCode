@@ -55,6 +55,7 @@
 | [0141-linked-list-cycle](https://github.com/KarthikS5873/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KarthikS5873/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KarthikS5873/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/KarthikS5873/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/KarthikS5873/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KarthikS5873/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0517-super-washing-machines](https://github.com/KarthikS5873/LeetCode/tree/main/0517-super-washing-machines/) | Hard |
 | [0518-coin-change-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/KarthikS5873/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/KarthikS5873/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/KarthikS5873/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/KarthikS5873/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
@@ -238,6 +240,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/KarthikS5873/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/KarthikS5873/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/KarthikS5873/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
