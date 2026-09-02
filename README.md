@@ -204,6 +204,7 @@
 | [0062-unique-paths](https://github.com/KarthikS5873/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/KarthikS5873/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/KarthikS5873/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0507-perfect-number](https://github.com/KarthikS5873/LeetCode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/KarthikS5873/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/KarthikS5873/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KarthikS5873/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
