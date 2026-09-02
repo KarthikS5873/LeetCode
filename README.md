@@ -73,6 +73,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/KarthikS5873/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/KarthikS5873/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/KarthikS5873/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/KarthikS5873/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/KarthikS5873/LeetCode/tree/main/0075-sort-colors/) | Medium |
@@ -89,6 +90,7 @@
 | [0001-two-sum](https://github.com/KarthikS5873/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/KarthikS5873/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/KarthikS5873/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/KarthikS5873/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/KarthikS5873/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/KarthikS5873/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/KarthikS5873/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
@@ -125,6 +127,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/KarthikS5873/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/KarthikS5873/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/KarthikS5873/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/KarthikS5873/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
