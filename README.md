@@ -52,6 +52,7 @@
 | [0076-minimum-window-substring](https://github.com/KarthikS5873/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/KarthikS5873/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KarthikS5873/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KarthikS5873/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/KarthikS5873/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -106,6 +107,7 @@
 | [0322-coin-change](https://github.com/KarthikS5873/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/KarthikS5873/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/KarthikS5873/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KarthikS5873/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0517-super-washing-machines](https://github.com/KarthikS5873/LeetCode/tree/main/0517-super-washing-machines/) | Hard |
 | [0518-coin-change-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/KarthikS5873/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
