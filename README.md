@@ -112,6 +112,7 @@
 | [0064-minimum-path-sum](https://github.com/KarthikS5873/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/KarthikS5873/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/KarthikS5873/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/KarthikS5873/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/KarthikS5873/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -232,6 +233,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/KarthikS5873/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/KarthikS5873/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/KarthikS5873/LeetCode/tree/main/0078-subsets/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -428,6 +430,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/KarthikS5873/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/KarthikS5873/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0190-reverse-bits](https://github.com/KarthikS5873/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/KarthikS5873/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0461-hamming-distance](https://github.com/KarthikS5873/LeetCode/tree/main/0461-hamming-distance/) | Easy |
