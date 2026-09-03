@@ -223,6 +223,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KarthikS5873/LeetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/KarthikS5873/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/KarthikS5873/LeetCode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/KarthikS5873/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +247,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KarthikS5873/LeetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/KarthikS5873/LeetCode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KarthikS5873/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/KarthikS5873/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
