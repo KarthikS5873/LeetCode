@@ -166,6 +166,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/KarthikS5873/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0143-reorder-list](https://github.com/KarthikS5873/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/KarthikS5873/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/KarthikS5873/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/KarthikS5873/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -209,6 +210,7 @@
 | [0067-add-binary](https://github.com/KarthikS5873/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/KarthikS5873/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/KarthikS5873/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0326-power-of-three](https://github.com/KarthikS5873/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0507-perfect-number](https://github.com/KarthikS5873/LeetCode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/KarthikS5873/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/KarthikS5873/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
