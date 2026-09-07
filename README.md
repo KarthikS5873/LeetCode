@@ -108,6 +108,7 @@
 | [0051-n-queens](https://github.com/KarthikS5873/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/KarthikS5873/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/KarthikS5873/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/KarthikS5873/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/KarthikS5873/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/KarthikS5873/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -152,6 +153,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/KarthikS5873/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/KarthikS5873/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/KarthikS5873/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/KarthikS5873/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/KarthikS5873/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -448,4 +450,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/KarthikS5873/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/KarthikS5873/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
