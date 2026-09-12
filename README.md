@@ -51,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KarthikS5873/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0037-sudoku-solver](https://github.com/KarthikS5873/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/KarthikS5873/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/KarthikS5873/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/KarthikS5873/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -104,6 +105,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/KarthikS5873/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/KarthikS5873/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/KarthikS5873/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0037-sudoku-solver](https://github.com/KarthikS5873/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0042-trapping-rain-water](https://github.com/KarthikS5873/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/KarthikS5873/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/KarthikS5873/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
@@ -236,6 +238,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/KarthikS5873/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/KarthikS5873/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/KarthikS5873/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/KarthikS5873/LeetCode/tree/main/0078-subsets/) | Medium |
 ## String
@@ -331,6 +334,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/KarthikS5873/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/KarthikS5873/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/KarthikS5873/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/KarthikS5873/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -454,4 +458,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/KarthikS5873/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/KarthikS5873/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/KarthikS5873/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
